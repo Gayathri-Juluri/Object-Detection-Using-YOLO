@@ -1,6 +1,3 @@
-Got it! Here's a **professionally formatted README.md** for your project:
-
----
 
 # 📷 Real-Time Object Detection with YOLOv8 and Webcam
 
