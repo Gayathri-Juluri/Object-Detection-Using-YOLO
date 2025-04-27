@@ -33,8 +33,6 @@ bash
 Copy
 Edit
 git clone https://github.com/Gayathri-Juluri/Object-Detection-Using-YOLO.git
-cd Object-Detection-Using-YOLO
-
 Install the Required Packages:
 
 bash
